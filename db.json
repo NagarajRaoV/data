@@ -1,6 +1,6 @@
 { 
-    datetitle: "2017-09-22T09:34:48.955Z",
-    notifications: [
+    "datetitle": "2017-09-22T09:34:48.955Z",
+    "notifications": [
         {
           "nfID": 120,
           "nfCoID": "ZZZZ01",
@@ -44,8 +44,8 @@
     ]
   },
 { 
-    datetitle: "2017-09-24T09:34:48.955Z",
-    notifications: [
+    "datetitle": "2017-09-24T09:34:48.955Z",
+    "notifications": [
         {
           "nfID": 120,
           "nfCoID": "ZZZZ01",
